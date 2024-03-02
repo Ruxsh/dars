@@ -80,6 +80,7 @@ function App() {
 
           <ul className='ul2'>
             <li><h3>About</h3></li>
+            
           <li>Team</li>
           <li>Location</li>
           <li>Privacy</li>
