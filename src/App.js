@@ -23,6 +23,7 @@ function App() {
       <div className='Uctalik'>
         <div className='bir'>
           <span>Free</span>
+          <h1> Salom</h1>
           <hr />
           <h1>$0 / mo</h1>
           <p>10 users included
